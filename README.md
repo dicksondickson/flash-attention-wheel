@@ -1,5 +1,5 @@
 # Flash Attention 2
-Prebuil Flash Attention Wheel for Windows 11
+Prebuilt Flash Attention Wheel for Windows 11
 
 # Compiled with:
 Flash Attention 2.5.9\
