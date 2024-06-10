@@ -1,4 +1,4 @@
-# flash-attention-wheel
+# Flash Attention 2
 Prebuil Flash Attention Wheel for Windows 11
 
 # Compiled with:
