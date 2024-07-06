@@ -1,4 +1,4 @@
-# Flash Attention 2  
+# Flash Attention Wheels for Windows 11 
 Variety of prebuilt Flash Attention Wheel for Windows 11  
 [https://github.com/dicksondickson/flash-attention-wheel/releases](https://github.com/dicksondickson/flash-attention-wheel/releases)  
 
